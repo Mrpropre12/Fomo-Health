@@ -1,0 +1,3 @@
+echo flask==3.0.3 > requirements.txt
+echo twilio==9.3.0 >> requirements.txt
+pip install -r requirements.txt
